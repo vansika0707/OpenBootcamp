@@ -1,0 +1,30 @@
+Sequence: ATGCGTAC
+Length: 8
+GC Content: 50.0%
+Valid: True
+Reverse Complement: GTACGCAT
+------------------------------
+Sequence: GCGTTAGC
+Length: 8
+GC Content: 62.5%
+Valid: True
+Reverse Complement: GCTAACGC
+------------------------------
+Sequence: TTAGGCTA
+Length: 8
+GC Content: 37.5%
+Valid: True
+Reverse Complement: TAGCCTAA
+------------------------------
+Sequence: ATGCTAGG
+Length: 8
+GC Content: 50.0%
+Valid: True
+Reverse Complement: CCTAGCAT
+------------------------------
+Sequence: CGTATGCA
+Length: 8
+GC Content: 50.0%
+Valid: True
+Reverse Complement: TGCATACG
+------------------------------
