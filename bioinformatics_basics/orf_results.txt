@@ -1,0 +1,6 @@
+Found 2 unique ORFs:
+
+>ORF_1
+MDGRLFHNT
+>ORF_2
+MSRTEV

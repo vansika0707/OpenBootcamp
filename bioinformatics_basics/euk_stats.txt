@@ -1,0 +1,31 @@
+Descriptive statistics for 'Size (Mb)':
+count     8302.000000
+mean       401.918437
+std       1111.538289
+min          0.011236
+25%         19.249775
+50%         39.559700
+75%        258.848000
+max      32396.400000
+Name: Size (Mb), dtype: float64
+
+Filtered DataFrame for Homo sapiens:
+           Species  Kingdom  ... Publication year  Assembly status
+44    Homo sapiens  Animals  ...             2002       Chromosome
+4993  Homo sapiens  Animals  ...             2004       Chromosome
+5059  Homo sapiens  Animals  ...             2007       Chromosome
+5673  Homo sapiens  Animals  ...             2008       Chromosome
+5721  Homo sapiens  Animals  ...             2007       Chromosome
+...            ...      ...  ...              ...              ...
+7783  Homo sapiens  Animals  ...             2017         Scaffold
+7784  Homo sapiens  Animals  ...             2017         Scaffold
+7789  Homo sapiens  Animals  ...             2017         Scaffold
+7790  Homo sapiens  Animals  ...             2017         Scaffold
+7793  Homo sapiens  Animals  ...             2017         Scaffold
+
+[210 rows x 9 columns]
+
+Correlation between 'Size (Mb)' and 'Number of genes':
+                 Size (Mb)  Number of genes
+Size (Mb)         1.000000         0.471518
+Number of genes   0.471518         1.000000
